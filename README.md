@@ -1,6 +1,8 @@
-500px-android-sdk
+[DEPRECATED] 500px-android-sdk
 =================
 
+Please use our public REST APIs https://github.com/500px/api-documentation
+They can be consumed easily by using many open source libraries such as http://square.github.io/retrofit/
 
 Installation
 ------------
